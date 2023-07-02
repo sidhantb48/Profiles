@@ -1,0 +1,19 @@
+.app {
+  margin: 0 auto;
+  max-width: 800px;
+  padding: 20px;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+button {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+
+button:hover {
+  background-color: #0069d9;
+}
